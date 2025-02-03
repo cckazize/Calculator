@@ -1,1 +1,1 @@
-<a href="https://calculatorproject-489b0.web.app" target="_blank">Calculator Project</a>
+<a href="https://calculatorproject-489b0.web.app" target="_blank">Click on the link to see the calculator app</a>
